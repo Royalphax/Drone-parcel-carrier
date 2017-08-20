@@ -1,4 +1,4 @@
-package fr.therence.geotraceur;
+package fr.therence.gms;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

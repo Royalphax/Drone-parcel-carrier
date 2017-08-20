@@ -1,4 +1,4 @@
-package fr.therence.geotraceur;
+package fr.therence.gms;
 
 /**
  * Class principale permettant le lancement de l'application.

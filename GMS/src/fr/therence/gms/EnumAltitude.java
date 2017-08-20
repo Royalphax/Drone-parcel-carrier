@@ -1,4 +1,4 @@
-package fr.therence.geotraceur;
+package fr.therence.gms;
 
 import java.awt.Color;
 
